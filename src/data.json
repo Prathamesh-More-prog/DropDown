@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "ganesh", "country": "india", "score": 100 },
+    { "id": 2, "name": "Prathamesh", "country": "india", "score": 150 },
+    { "id": 3, "name": "piyush", "country": "india", "score": 130 },
+    { "id": 4, "name": "Mayur", "country": "india", "score": 189 }
+   ]
